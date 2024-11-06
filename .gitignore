@@ -1,0 +1,12 @@
+# .gitignore faylining umumiy shabloni (Python uchun)
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environment papkalar
+env/
+venv/
+
+# Tizim fayllari
+.DS_Store
+Thumbs.db
